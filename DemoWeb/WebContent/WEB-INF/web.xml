@@ -2,11 +2,11 @@
 <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" version="3.1">
   <display-name>LabWeb</display-name>
   <servlet>
-    <servlet-name>LoginServlet</servlet-name>
+    <servlet-name>LoginServlet2</servlet-name>
     <servlet-class>controller.LoginServlet</servlet-class>
   </servlet>
   <servlet-mapping>
-    <servlet-name>LoginServlet</servlet-name>
+    <servlet-name>LoginServlet2</servlet-name>
     <url-pattern>/secure/login.controller</url-pattern>
   </servlet-mapping>
   <servlet>
