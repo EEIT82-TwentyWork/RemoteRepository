@@ -3,12 +3,12 @@
   <display-name>LabWeb</display-name>
   <servlet>
 
-    <servlet-name>LoginServlet123</servlet-name>
+    <servlet-name>LoginServlet123456</servlet-name>
     <servlet-class>controller.LoginServlet</servlet-class>
   </servlet>
   <servlet-mapping>
 
-    <servlet-name>LoginServlet123</servlet-name>
+    <servlet-name>LoginServlet123456</servlet-name>
 
     <url-pattern>/secure/login.controller</url-pattern>
   </servlet-mapping>
