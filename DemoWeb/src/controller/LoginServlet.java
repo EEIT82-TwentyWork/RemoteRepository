@@ -53,7 +53,7 @@ public class LoginServlet extends HttpServlet {
 		if(bean==null) {
 			errors.put("password", "登入失敗，請再試一次");
 			request.getRequestDispatcher(
-					"/secure/login.jsp").forward(request, response);
+					"/test.jsp").forward(request, response);
 		} else {
 			HttpSession session = request.getSession();
 			session.setAttribute("user", bean);
