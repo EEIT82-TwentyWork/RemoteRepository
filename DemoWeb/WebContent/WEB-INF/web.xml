@@ -6,12 +6,12 @@
 
   
 
-    <servlet-name>LoginServlet12345678</servlet-name>
+    <servlet-name>LoginServlet1234567891011</servlet-name>
 
     <servlet-class>controller.LoginServlet</servlet-class>
   </servlet>
   <servlet-mapping>
-    <servlet-name>LoginServlet12345678</servlet-name>
+    <servlet-name>LoginServlet1234567891011</servlet-name>
     <url-pattern>/secure/login.controller</url-pattern>
   </servlet-mapping>
   
