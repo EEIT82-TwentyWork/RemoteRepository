@@ -20,6 +20,7 @@ public class LoginServlet extends HttpServlet {
 	@Override
 	protected void doGet(HttpServletRequest request,
 			HttpServletResponse response) throws ServletException, IOException {
+		System.out.println("ccccccc");
 		System.out.println("BBBBBBB");
 //接收資料
 		System.out.println("LT  write");
@@ -62,6 +63,7 @@ public class LoginServlet extends HttpServlet {
 	@Override
 	protected void doPost(HttpServletRequest req,
 			HttpServletResponse resp) throws ServletException, IOException {
+		System.out.println("isDoPOST");
 		this.doGet(req, resp);
 	}
 }

@@ -6,12 +6,6 @@
 	<display-name>LabWeb</display-name>
 	<servlet>
 
-
-
-
-
-
-
 		<servlet-name>LoginServlet941</servlet-name>
 
 		<servlet-class>controller.LoginServlet</servlet-class>
