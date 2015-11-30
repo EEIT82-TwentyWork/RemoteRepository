@@ -12,8 +12,10 @@
 	</servlet>
 	<servlet-mapping>
 
-		<servlet-name>LoginServlet543</servlet-name>
-		<url-pattern>/secure/login.controller111</url-pattern>
+
+		<servlet-name>LoginServlet941</servlet-name>
+		<url-pattern>/secure/login.controller11122</url-pattern>
+
 	</servlet-mapping>
 	<servlet>
 		<servlet-name>ProductServlet</servlet-name>

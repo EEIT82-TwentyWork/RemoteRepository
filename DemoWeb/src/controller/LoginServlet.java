@@ -24,6 +24,7 @@ public class LoginServlet extends HttpServlet {
 
 
 
+
 //接收資料
 		System.out.println("LT  write");
 		
