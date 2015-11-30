@@ -6,7 +6,7 @@
 	<display-name>LabWeb</display-name>
 	<servlet>
 
-		<servlet-name>LoginServlet543</servlet-name>
+		<servlet-name>LoginServlet543456</servlet-name>
 
 		<servlet-class>controller.LoginServlet</servlet-class>
 	</servlet>
