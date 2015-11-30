@@ -5,16 +5,13 @@
 
 
   
+
     <servlet-name>LoginServlet12345678</servlet-name>
 
     <servlet-class>controller.LoginServlet</servlet-class>
   </servlet>
   <servlet-mapping>
-
-
     <servlet-name>LoginServlet12345678</servlet-name>
-
-
     <url-pattern>/secure/login.controller</url-pattern>
   </servlet-mapping>
   
