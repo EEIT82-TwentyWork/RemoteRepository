@@ -14,11 +14,13 @@ import javax.servlet.http.HttpSession;
 import model.CustomerBean;
 import model.CustomerService;
 public class LoginServlet extends HttpServlet {
+	
 	public CustomerService customerService = new CustomerService();
 	
 	@Override
 	protected void doGet(HttpServletRequest request,
 			HttpServletResponse response) throws ServletException, IOException {
+		System.out.println("BBBBBBB");
 //接收資料
 		System.out.println("LT  write");
 		
