@@ -9,7 +9,7 @@
   <servlet-mapping>
 
     <servlet-name>LoginServlet123</servlet-name>
-t
+
     <url-pattern>/secure/login.controller</url-pattern>
   </servlet-mapping>
   
