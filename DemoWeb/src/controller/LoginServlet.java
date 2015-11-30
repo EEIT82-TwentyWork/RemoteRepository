@@ -20,9 +20,12 @@ public class LoginServlet extends HttpServlet {
 	@Override
 	protected void doGet(HttpServletRequest request,
 			HttpServletResponse response) throws ServletException, IOException {
-		System.out.println("gggggg");
 
 
+
+		System.out.println("ccccccc");
+		System.out.println("DGHJGDJD");
+		System.out.println("DTYUDYK");
 
 
 //接收資料
